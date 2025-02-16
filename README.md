@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an e-learning application and ecommerce mciroservice app.
+🔭 I'm currently working on an e-learning application and ecommerce microservice app.
 
 
 ## 🌐 Socials:
